@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+output/
+*.png
+*.jpg
+*.jpeg
+.venv/
+venv/
+.vscode/
+.idea/
+.hermes/
+.agents/
